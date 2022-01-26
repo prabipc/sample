@@ -25,7 +25,7 @@ public class testSample {
 	@Test()
 	public void testLoginEdge() throws FileNotFoundException
 	{
-		launchApplication.launch("edge");
+		launchApplication.launch("Edge");
 		demoQA.read();
 		
 		//demoQA.login();
